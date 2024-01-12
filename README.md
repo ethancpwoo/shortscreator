@@ -1,4 +1,4 @@
-# shortscreator
+# shorts-creator
 
 ## Overview
 
